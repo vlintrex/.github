@@ -13,15 +13,15 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/icon-software.svg" alt="Software icon" width="34" height="34" /><br />
+      <img src="./assets/icon-software.svg" alt="Software icon" width="44" height="44" /><br />
       <strong>SOFTWARE</strong>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/icon-systems.svg" alt="Systems icon" width="34" height="34" /><br />
+      <img src="./assets/icon-systems.svg" alt="Systems icon" width="44" height="44" /><br />
       <strong>SYSTEMS</strong>
     </td>
     <td align="center" width="34%">
-      <img src="./assets/icon-emerging.svg" alt="Emerging technology icon" width="34" height="34" /><br />
+      <img src="./assets/icon-emerging.svg" alt="Emerging technology icon" width="44" height="44" /><br />
       <strong>EMERGING TECH</strong>
     </td>
   </tr>
