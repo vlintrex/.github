@@ -4,8 +4,8 @@
   <img src="./assets/mark.svg" width="227" alt="Vlintrex">
 </p>
 
-<h3 align="center">Built in silence.</h3>
+<h2 align="center">Built in silence.</h2>
 
-<p align="center"><sub>Released when it's inevitable.</sub></p>
+<p align="center">Released when it's inevitable.</p>
 
 <br>
