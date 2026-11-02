@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-250 -250 500 500" width="500" height="500" role="img" aria-label="Vlintrex">
+<style>.in{animation:in 1.1s cubic-bezier(.16,1,.3,1) both} .navy{--x:0;--y:-64px} .teal{--x:64px;--y:0;animation-delay:.08s} .sky{--x:0;--y:64px;animation-delay:.16s} .peri{--x:-64px;--y:0;animation-delay:.24s} .band{animation:lock .35s ease-out 1.05s both} .b{animation:breathe 7s cubic-bezier(.45,0,.55,1) -2s infinite} .navy .b{--u:-7px;--v:0} .teal .b{--u:0;--v:-7px} .sky .b{--u:7px;--v:0} .peri .b{--u:0;--v:7px} .glow{animation:glow 7s cubic-bezier(.45,0,.55,1) -2s infinite} @keyframes in{from{opacity:0;transform:translate(var(--x),var(--y))}} @keyframes lock{from{opacity:0}} @keyframes breathe{0%,64%,100%{transform:none}78%,86%{transform:translate(var(--u),var(--v))}} @keyframes glow{0%,64%,100%{opacity:0}78%,86%{opacity:1}} @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><radialGradient id="g"><stop offset="0" stop-color="#0AB3EF"/><stop offset=".45" stop-color="#0AB3EF" stop-opacity=".45"/><stop offset="1" stop-color="#0AB3EF" stop-opacity="0"/></radialGradient></defs>
+<g transform="rotate(39)">
+<circle class="glow" r="96" fill="url(#g)" opacity="0"/>
+<g class="in navy"><g class="b">
+<path fill="#01568F" d="M-97 -137H-33V33H-137V-97A40 40 0 0 1 -97 -137Z"/>
+<rect class="band" x="-137" y="18" width="104" height="15" fill="#012546"/>
+</g></g>
+<g class="in teal"><g class="b">
+<path fill="#037293" d="M-33 -137H125A40 40 0 0 1 165 -97V-39A6 6 0 0 1 159 -33H-33V-137Z"/>
+</g></g>
+<g class="in sky"><g class="b">
+<path fill="#0AB3EF" d="M33 -33H137V97A40 40 0 0 1 97 137H33V-33Z"/>
+<rect class="band" x="33" y="-33" width="104" height="15" fill="#015D7C"/>
+</g></g>
+<g class="in peri"><g class="b">
+<path fill="#8BBAEE" d="M-159 33H33V137H-125A40 40 0 0 1 -165 97V39A6 6 0 0 1 -159 33Z"/>
+</g></g>
+</g></svg>
